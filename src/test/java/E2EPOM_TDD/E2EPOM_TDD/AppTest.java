@@ -17,4 +17,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+    @Test
+    public void gitY() {
+    	System.out.println("it's updated from other pc");
+    }
+    
 }
